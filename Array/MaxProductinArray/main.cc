@@ -19,15 +19,16 @@
 using namespace std;
 
 int main(){
-    int n,m,in;
-    vi v1, v2, v;
-    cin >> n >> m;
-    rep(i,n) cin >> in, v1.pb(in);
-    rep(i,m) cin >> in, v2.pb(in);
-    merge(all(v1), all(v2), back_inserter(v));
-    for(int c:v){
-        cout << c << " ";
+    int n;
+    cin >> n;
+    vi v;
+    rep(i,n){
+        int in;
+        cin >> in;
+        v.pb(in);
     }
+    sort(all(v));
+    cout << max(v[n-1]*v[n-2], v[0]*v[1]);
     return 0;
 }
 

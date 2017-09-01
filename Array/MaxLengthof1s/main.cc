@@ -19,15 +19,21 @@
 using namespace std;
 
 int main(){
-    int n,m,in;
-    vi v1, v2, v;
-    cin >> n >> m;
-    rep(i,n) cin >> in, v1.pb(in);
-    rep(i,m) cin >> in, v2.pb(in);
-    merge(all(v1), all(v2), back_inserter(v));
-    for(int c:v){
-        cout << c << " ";
+    int n;
+    cin >> n;
+    vi v;
+    rep(i,n){
+        int in;
+        cin >> in;
+        v.pb(in);
     }
+    int l = 0, r=0, zero=0, ans = 0;
+    for(r=0; r<n; r++){
+        if(v[r] == 0) zero++;
+        while(zero > 1) zero--, l++;
+        ans = max(ans, r-l+1);
+    }
+    cout << ans;
     return 0;
 }
 

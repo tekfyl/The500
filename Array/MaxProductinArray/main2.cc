@@ -19,15 +19,22 @@
 using namespace std;
 
 int main(){
-    int n,m,in;
-    vi v1, v2, v;
-    cin >> n >> m;
-    rep(i,n) cin >> in, v1.pb(in);
-    rep(i,m) cin >> in, v2.pb(in);
-    merge(all(v1), all(v2), back_inserter(v));
-    for(int c:v){
-        cout << c << " ";
+    int n;
+    cin >> n;
+    vi v;
+    rep(i,n){
+        int in;
+        cin >> in;
+        v.pb(in);
     }
+    int ans = 0;
+    for(int i=0; i<n-1; i++){
+        for(int j=i+1; j<n; j++){
+            int c = v[i]*v[j];
+            if(ans < c) ans = c;
+        }
+    }
+    cout << ans;
     return 0;
 }
 
