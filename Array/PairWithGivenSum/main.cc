@@ -76,6 +76,7 @@ vi v;
 
 int main(){
     cin >> n >> k;
+    int in;
     rep(i,n) cin >> in, v.pb(in);
     set<int> diff;
     diff.insert(k-v[0]);

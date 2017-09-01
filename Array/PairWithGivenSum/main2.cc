@@ -16,24 +16,29 @@
 #define mn min_element
 #define rep(i,n)    for(__typeof(n) i = 0; i < n; i++)
 #define rep1(i,n)   for(__typeof(n) i = 1; i <= n; i++)
-
 using namespace std;
 
-int in,n,i=0,k=0;
-vi v;
-
-
 int main(){
-    cin >> n;
-    rep(i,n) cin >> in, v.pb(in);
-    for(i=0; i<n; i++){
-        if(v[i] == 0) v[k]=0, k++;
+    int n, k;
+    vi v;
+    cin >> n >> k;
+    rep(i,n){
+        int in;
+        cin >> in;
+        v.pb(in);
     }
-    while(k<n){
-        v[k] = 1;
-        k++;
+    sort(all(v));
+    int l = 0, r = n-1;
+    while(l < r){
+        int sum = v[l]+v[r];
+        if(sum == k){
+            cout << v[l] << " " << v[r];
+            return 0;
+            cout << endl;
+        }
+        else if(sum < k) l++;
+        else r--;
     }
-    for(int c:v) cout << c << " ";
     return 0;
 }
 
