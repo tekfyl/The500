@@ -5,7 +5,7 @@ using namespace std;
 int main() {
     int n; // number of intervals
     cin >> n;
-    vector<pair<int,int> > data;
+    vector<pair<int,int> > data, st;
     for(int i=0; i<n; i++){
         int start, end;
         cin >> start >> end;
@@ -14,24 +14,19 @@ int main() {
     
     sort(data.begin(), data.end());
     
-    stack<pair<int,int> > st;
-    st.push(data[0]);
+    st.push_back(data[0]);
     for(int i=1; i<n; i++){
-        auto check = st.top();
+        auto check = st.back();
         if(data[i].first > check.second){
-            st.push(data[i]);
+            st.push_back(data[i]);
         }    
         else if(data[i].second > check.second){
-            int t = st.top().first;
-            st.pop(); 
-            st.push(make_pair(t, data[i].second));
+            st.back().second = data[i].second;
         }
     }
     
-    while(!st.empty()){
-        auto out = st.top();
-        cout << out.first << " " << out.second << endl;
-        st.pop();
+    for(auto v:st){
+        cout << v.first << " " << v.second << endl;
     }
     return 0;
 }
