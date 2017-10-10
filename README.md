@@ -1,12 +1,12 @@
 # The500
 
-## Array
+### Array
 
-## Backtracking
+### Backtracking
 
-## Dynamic Programming
+### Dynamic Programming
 
-## Graph
+### Graph
 bfs
 dfs <br />
 ArrDepDfs
