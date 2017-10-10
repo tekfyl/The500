@@ -18,7 +18,7 @@ Duplicate Elemnt
 Transitive Closure
 Cycle Detection
 Total number of paths
-Tree Or Not
+Tree Or Not  
 2 Edge Connectivity
 2 Vertex Connected
 DAGOrNot
