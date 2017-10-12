@@ -1,6 +1,7 @@
 # The500
 
 ### Array
+Pair With Given Sum  
 
 ### Backtracking
 
@@ -13,7 +14,7 @@ ArrDepDfs
 Bipartite
 Sanke And Ladder
 Topological Sort
-Sort Binary Array
+Sort Binary Array  
 Duplicate Elemnt
 Transitive Closure
 Cycle Detection
