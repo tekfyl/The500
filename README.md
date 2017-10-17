@@ -29,6 +29,7 @@ Partition Problem
 Subset Sum Problem  
 Count number of Binary strings without continuous ones  
 Rod Cutting   
+Minimum number of coins required to get desired change  
 
 
 ### Graph
