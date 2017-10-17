@@ -30,7 +30,7 @@ Subset Sum Problem
 Count number of Binary strings without continuous ones  
 Rod Cutting   
 Minimum number of coins required to get desired change  
-
+Total number if ways to get the denomination of coins  
 
 ### Graph
 bfs  
