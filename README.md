@@ -13,7 +13,9 @@ Longest Common Substring
 Longest Palindromic Subsequence  
 Longest Repeated Subsequence  
 Shortest Common Subsequence  
-Shortest Common Subsequence using LCS  
+Shortest Common Subsequence using LCS
+Longest Increasing Subsequence n^2
+Longest Increasing Subsequence nlogn
 
 
 ### Graph
