@@ -23,6 +23,7 @@ Largest Sub Square
 Matrix Chain Multiplication  
 Minimum Cost to reach the last cell of the matrix from its first cell  
 Total Number of paths to reach the end of matrix from its first cell
+Knapsack0/1l
 
 
 ### Graph
