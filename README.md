@@ -26,9 +26,9 @@ Total Number of paths to reach the end of matrix from its first cell
 Knapsack0/1
 Maximize value of Expression  
 Partition Problem  
-Subset Sum Problem
-Count number of Binary strings without continuous ones
-Rod Cutting 
+Subset Sum Problem  
+Count number of Binary strings without continuous ones  
+Rod Cutting   
 
 
 ### Graph
