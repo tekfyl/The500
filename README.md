@@ -11,31 +11,31 @@ Longest Common Subsequence of two strings
 
 
 ### Graph
-bfs
+bfs  
 dfs <br />
-ArrDepDfs
-Bipartite
-Sanke And Ladder
-Topological Sort
-Sort Binary Array  
-Duplicate Elemnt
-Transitive Closure
-Cycle Detection
-Total number of paths
+ArrDepDfs  
+Bipartite  
+Sanke And Ladder  
+Topological Sort  
+Sort Binary Array   
+Duplicate Elemnt  
+Transitive Closure  
+Cycle Detection  
+Total number of paths  
 Tree Or Not  
-2 Edge Connectivity
-2 Vertex Connected
-DAGOrNot
-Disjoint Set
-Knight On A Chess Board
-Strongly Connected
-Strongly Connected In One Dfs
-kruskal's
-Dijkstra's
-Bellman Ford
-Floyd Warshall - All pair shortest paths
+2 Edge Connectivity  
+2 Vertex Connected  
+DAGOrNot  
+Disjoint Set  
+Knight On A Chess Board  
+Strongly Connected  
+Strongly Connected In One Dfs  
+kruskal's  
+Dijkstra's  
+Bellman Ford  
+Floyd Warshall - All pair shortest paths  
 
-439
+439  
 438
 437
 436
