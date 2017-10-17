@@ -9,10 +9,11 @@ Pair With Given Sum
 Fibonacci  
 Longest Common Subsequence of two strings  
 Longest Common Subsequence of three strings  
-Finding LCS  
 Longest Common Substring  
 Longest Palindromic Subsequence  
 Longest Repeated Subsequence  
+Shortest Common Subsequence  
+Shortest Common Subsequence using LCS  
 
 
 ### Graph
