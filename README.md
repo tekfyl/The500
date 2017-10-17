@@ -6,7 +6,7 @@ Pair With Given Sum
 ### Backtracking
 
 ### Dynamic Programming
-Fibonacci  
+Fibonacci Series  
 Longest Common Subsequence of two strings  
 Longest Common Subsequence of three strings  
 Longest Common Substring  
