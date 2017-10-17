@@ -8,6 +8,11 @@ Pair With Given Sum
 ### Dynamic Programming
 Fibonacci  
 Longest Common Subsequence of two strings  
+Longest Common Subsequence of three strings  
+Finding LCS  
+Longest Common Substring  
+Longest Palindromic Subsequence  
+Longest Repeated Subsequence  
 
 
 ### Graph
