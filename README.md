@@ -2,6 +2,8 @@
 
 ### Array
 Pair With Given Sum  
+Sub Array with 0 Sum  
+Sort Binary Array  
 
 ### Backtracking
 
@@ -34,7 +36,7 @@ Total number if ways to get the denomination of coins
 Total number of times pattern appears in a string  
 Optimal Binary Tree  
 
-#Todo - Wildcard, Regular expression, matrix kxk sum
+# Todo - Wildcard, Regular expression, matrix kxk sum
 
 ### Graph
 bfs  
