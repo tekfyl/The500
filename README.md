@@ -43,7 +43,7 @@ Total number if ways to get the denomination of coins
 Total number of times pattern appears in a string  
 Optimal Binary Tree  
 
-# Todo - Wildcard, Regular expression, matrix kxk sum, 3 sum, all stocks
+# Todo - Wildcard, Regular expression, matrix kxk sum, 3 sum, all stocks, merge two array constraint
 
 ### Graph
 bfs  
