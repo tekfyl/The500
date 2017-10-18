@@ -16,7 +16,7 @@
 #define mn min_element
 #define rep(i,n)    for(__typeof(n) i = 0; i < n; i++)
 #define rep1(i,n)   for(__typeof(n) i = 1; i <= n; i++)
-
+ 
 using namespace std;
 
 
