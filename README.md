@@ -3,7 +3,10 @@
 ### Array
 Pair With Given Sum  
 Sub Array with 0 Sum  
-Sort Binary Array  
+Sort Binary Array 
+Finding Duplicate element in a limited range array  
+
+
 
 ### Backtracking
 
