@@ -6,6 +6,7 @@ Sub Array with 0 Sum
 Sort Binary Array 
 Finding Duplicate element in a limited range array  
 Largest Sub-array by Consecutive Integers  
+Maximum length sub-array having given sum  
 
 
 ### Backtracking
