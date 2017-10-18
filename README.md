@@ -7,6 +7,7 @@ Sort Binary Array
 Finding Duplicate element in a limited range array  
 Largest Sub-array by Consecutive Integers  
 Maximum length sub-array having given sum  
+Maximum length sub-array having equal number of 0s and 1s  
 
 
 ### Backtracking
