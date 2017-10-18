@@ -10,6 +10,9 @@ Maximum length sub-array having given sum
 Maximum length sub-array having equal number of 0s and 1s  
 Dutch national flag problem  
 Inplace Merge  
+  
+Maximum Product of Numbers  
+Shuffle Elements of an Array  
 
 
 ### Backtracking
