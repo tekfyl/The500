@@ -13,6 +13,7 @@ Inplace Merge
   
 Maximum Product of Numbers  
 Shuffle Elements of an Array  
+Wave Sort  
 
 
 ### Backtracking
