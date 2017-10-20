@@ -75,6 +75,9 @@ Dijkstra's
 Bellman Ford  
 Floyd Warshall - All pair shortest paths  
 
+### Heaps  
+
+
 439  
 438
 437
