@@ -30,7 +30,10 @@ int main(){
     int l = 0, r=0, zero=0, ans = 0;
     for(r=0; r<n; r++){
         if(v[r] == 0) zero++;
-        while(zero > 1) zero--, l++;
+        while(zero > 1){ 
+            if(v[l] == 0) zero--; 
+            l++;
+        }
         ans = max(ans, r-l+1);
     }
     cout << ans;
