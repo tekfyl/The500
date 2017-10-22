@@ -50,7 +50,7 @@ Total number of times pattern appears in a string
 Optimal Binary Tree  
 Wildcard Pattern Matching  
 
-# Todo - Wildcard, Regular expression, matrix kxk sum, all stocks, longest palindromic subs
+# Todo - Regular expression, matrix kxk sum, all stocks, longest palindromic subs
 
 ### Graph
 bfs  
