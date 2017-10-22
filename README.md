@@ -51,7 +51,7 @@ Optimal Binary Tree
 Wildcard Pattern Matching  
 Regular Expression Matching  
 
-# Todo - matrix kxk sum, all stocks, longest palindromic subs
+# Todo -running median,  matrix kxk sum, all stocks, longest palindromic subs
 
 ### Graph
 bfs  
