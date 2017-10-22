@@ -49,8 +49,9 @@ Total number if ways to get the denomination of coins
 Total number of times pattern appears in a string  
 Optimal Binary Tree  
 Wildcard Pattern Matching  
+Regular Expression Matching  
 
-# Todo - Regular expression, matrix kxk sum, all stocks, longest palindromic subs
+# Todo - matrix kxk sum, all stocks, longest palindromic subs
 
 ### Graph
 bfs  
