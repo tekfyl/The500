@@ -11,6 +11,7 @@ Maximum length sub-array having equal number of 0s and 1s
 Dutch national flag problem  
 Inplace Merge  
 Merging two arrays by satisfying few constraints  
+3 Sum  
 
 Maximum Product of Numbers  
 Shuffle Elements of an Array  
@@ -47,8 +48,9 @@ Minimum number of coins required to get desired change
 Total number if ways to get the denomination of coins  
 Total number of times pattern appears in a string  
 Optimal Binary Tree  
+Wildcard Pattern Matching  
 
-# Todo - running median, Wildcard, k-size max deque, Regular expression, Word Break, matrix kxk sum, 3 sum, all stocks, longest palindromic subs, IB fb asked
+# Todo - Wildcard, Regular expression, matrix kxk sum, all stocks, longest palindromic subs
 
 ### Graph
 bfs  
