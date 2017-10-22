@@ -52,7 +52,7 @@ Wildcard Pattern Matching
 Regular Expression Matching  
 Ways to Decode  
 
-# Todo -running median,  matrix kxk sum, all stocks, longest palindromic subs
+# Todo -word break, partition, running median, all stocks, longest palindromic subs
 
 ### Graph
 bfs  
@@ -83,6 +83,10 @@ Floyd Warshall - All pair shortest paths
 Heap Sort  
 K largest element  
 K Sorted Array
+
+### Matrix  
+Calculating all kxk matrix sum in MxN matrix  
+
 
 439  
 438
