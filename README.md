@@ -50,6 +50,7 @@ Total number of times pattern appears in a string
 Optimal Binary Tree  
 Wildcard Pattern Matching  
 Regular Expression Matching  
+Ways to Decode  
 
 # Todo -running median,  matrix kxk sum, all stocks, longest palindromic subs
 
