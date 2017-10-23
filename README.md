@@ -51,9 +51,7 @@ Optimal Binary Tree
 Wildcard Pattern Matching  
 Regular Expression Matching  
 Ways to Decode  
-Longest Palindromic Substring  
-
-# Todo - all stocks
+Longest Palindromic Substring   
 
 ### Graph
 bfs  
