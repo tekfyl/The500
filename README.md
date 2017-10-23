@@ -53,7 +53,7 @@ Regular Expression Matching
 Ways to Decode  
 Longest Palindromic Substring  
 
-# Todo -word break, partition, running median, all stocks
+# Todo - all stocks
 
 ### Graph
 bfs  
