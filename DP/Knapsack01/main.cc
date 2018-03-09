@@ -5,7 +5,7 @@ using namespace std;
 #define N 10
 
 void KnapSack(int value[], int weight[]){
-    int n = 6;
+    int n = 2;
     vector<vector<int> > lookup(n, vector<int> (N+1,0));
     
     for(int j=0; j<=N; j++){
@@ -36,8 +36,8 @@ void KnapSack(int value[], int weight[]){
 }
 
 int main(){
-    int value[] = {20 ,5, 10, 40, 15, 25};
-    int weight[] = {1, 2, 3, 8, 7, 4};
+    int value[] = {37, 28};
+    int weight[] = {7, 76};
     //int n = (int)sizeof(value)/sizeof(value[0]);
     //cout << n << endl;
     KnapSack(value, weight);
